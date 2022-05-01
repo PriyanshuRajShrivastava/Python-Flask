@@ -1,4 +1,3 @@
-from ctypes import sizeof
 import os,json
 
 path_to_json = 'data/'
